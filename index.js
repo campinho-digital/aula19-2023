@@ -5,6 +5,11 @@ Atribui o valor 10 à variável "i"
 Atribui a string "Mundo" à variável "j"
 */
 
+var i = 0
+var j = 
+
+
+
 
 /*
 let x = 5; // Declara uma variável "x" e atribui o valor 5 a ela
