@@ -6,7 +6,12 @@ Atribui a string "Mundo" à variável "j"
 */
 
 var i = 0
-var j = 
+var j = ""
+i = 10
+j = "Mundo"
+
+console.log(i)
+console.log(j)
 
 
 
@@ -40,6 +45,13 @@ Calcular o desconto no valor inicial
 Saída:
 Resultado do preço final no console.
 */
+
+const inicial = "4500"
+const desconto = "0.2"
+
+const precfinal = inicial * desconto
+
+console.log(inicial - precfinal)
 
 
 
