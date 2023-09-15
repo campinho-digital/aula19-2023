@@ -46,8 +46,8 @@ Saída:
 Resultado do preço final no console.
 */
 
-const inicial = "4500"
-const desconto = "0.2"
+const inicial = 4500
+const desconto = 0.2
 
 const precfinal = inicial * desconto
 
