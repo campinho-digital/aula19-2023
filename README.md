@@ -26,7 +26,7 @@ e exibir as informações desse novo funcionário no console.
 
 - Assim que isso for feito, voce deverá criar uma branch e enviar as atualizacoes para a sua respectiva branch. 
 
-Feito isso, voce deverá criar um Pull request endereçado a main/master do projeto.
+Feito isso, voce deverá criar um Pull request endereçado a `main/master` do projeto.
 
 #### Como exibir no console:
 
