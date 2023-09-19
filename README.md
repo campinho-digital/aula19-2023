@@ -31,7 +31,7 @@ Feito isso, voce deverá criar um Pull request endereçado a `main/master` do pr
 #### Como exibir no console:
 
 - Para exibir no console basta usar o comando `npm install`
-ele uxilia na instalação e desinstalação de pacotes, gerenciamento da versões e gerenciamento de dependências necessárias para executar um projeto
+ele auxilia na instalação e desinstalação de pacotes, gerenciamento da versões e gerenciamento de dependências necessárias para executar um projeto
 
 - em seguida com o comando `npm start` você poderá ver tudo que é exibido no arquivo `index.js`
 
