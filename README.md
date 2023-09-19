@@ -42,7 +42,7 @@ ele uxilia na instalação e desinstalação de pacotes, gerenciamento da versõ
 ### Links
 [Pull request](https://coodesh.com/blog/dicionario/o-que-e-pull-request-pr/)
 
-[Fork](https://link-url-here.org)
+[Fork](https://github.com/campinho-digital/Como-fazer-um-Fork)
 
 [Criando uma branch](https://githowto.com/pt-BR/creating_a_branch)
 
